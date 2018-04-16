@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F443183D208550B400C66DB8 /* gear-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = F443183C208550B400C66DB8 /* gear-hi.png */; };
 		F465DDC12082A8D800D17255 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F465DDC02082A8D800D17255 /* AppDelegate.swift */; };
 		F465DDC32082A8D800D17255 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F465DDC22082A8D800D17255 /* ViewController.swift */; };
 		F465DDC62082A8D800D17255 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F465DDC42082A8D800D17255 /* Main.storyboard */; };
@@ -14,6 +15,8 @@
 		F465DDCB2082A8D800D17255 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F465DDC92082A8D800D17255 /* LaunchScreen.storyboard */; };
 		F465DDD62082A8D800D17255 /* dokimi01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F465DDD52082A8D800D17255 /* dokimi01Tests.swift */; };
 		F465DDE12082A8D800D17255 /* dokimi01UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F465DDE02082A8D800D17255 /* dokimi01UITests.swift */; };
+		F465DDEF2082A96600D17255 /* art-child-dream-escape-Favim.com-4432531.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F465DDEE2082A96600D17255 /* art-child-dream-escape-Favim.com-4432531.jpg */; };
+		F465DDF12082A97100D17255 /* oneirokritis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F465DDF02082A97100D17255 /* oneirokritis.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F443183C208550B400C66DB8 /* gear-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gear-hi.png"; sourceTree = "<group>"; };
 		F465DDBD2082A8D800D17255 /* dokimi01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dokimi01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F465DDC02082A8D800D17255 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F465DDC22082A8D800D17255 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +51,8 @@
 		F465DDDC2082A8D800D17255 /* dokimi01UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dokimi01UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F465DDE02082A8D800D17255 /* dokimi01UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dokimi01UITests.swift; sourceTree = "<group>"; };
 		F465DDE22082A8D800D17255 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F465DDEE2082A96600D17255 /* art-child-dream-escape-Favim.com-4432531.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "art-child-dream-escape-Favim.com-4432531.jpg"; sourceTree = "<group>"; };
+		F465DDF02082A97100D17255 /* oneirokritis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oneirokritis.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +87,9 @@
 				F465DDD42082A8D800D17255 /* dokimi01Tests */,
 				F465DDDF2082A8D800D17255 /* dokimi01UITests */,
 				F465DDBE2082A8D800D17255 /* Products */,
+				F465DDEE2082A96600D17255 /* art-child-dream-escape-Favim.com-4432531.jpg */,
+				F465DDF02082A97100D17255 /* oneirokritis.jpg */,
+				F443183C208550B400C66DB8 /* gear-hi.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -233,8 +242,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				F465DDCB2082A8D800D17255 /* LaunchScreen.storyboard in Resources */,
+				F465DDF12082A97100D17255 /* oneirokritis.jpg in Resources */,
 				F465DDC82082A8D800D17255 /* Assets.xcassets in Resources */,
 				F465DDC62082A8D800D17255 /* Main.storyboard in Resources */,
+				F465DDEF2082A96600D17255 /* art-child-dream-escape-Favim.com-4432531.jpg in Resources */,
+				F443183D208550B400C66DB8 /* gear-hi.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
