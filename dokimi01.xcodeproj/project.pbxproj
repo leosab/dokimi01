@@ -87,7 +87,6 @@
 				F465DDD42082A8D800D17255 /* dokimi01Tests */,
 				F465DDDF2082A8D800D17255 /* dokimi01UITests */,
 				F465DDBE2082A8D800D17255 /* Products */,
-				F465DDEE2082A96600D17255 /* art-child-dream-escape-Favim.com-4432531.jpg */,
 				F465DDF02082A97100D17255 /* oneirokritis.jpg */,
 				F443183C208550B400C66DB8 /* gear-hi.png */,
 			);
@@ -128,6 +127,7 @@
 		F465DDDF2082A8D800D17255 /* dokimi01UITests */ = {
 			isa = PBXGroup;
 			children = (
+				F465DDEE2082A96600D17255 /* art-child-dream-escape-Favim.com-4432531.jpg */,
 				F465DDE02082A8D800D17255 /* dokimi01UITests.swift */,
 				F465DDE22082A8D800D17255 /* Info.plist */,
 			);
